@@ -4,7 +4,7 @@
 
   Students will use GitHub Codespaces, Python, Jupyter notebooks, Streamlit, Git, and AWS CloudFormation.
 
-  ## Learning outcomes
+  # Learning outcomes
 
   By the end of the course, you will be able to:
 
